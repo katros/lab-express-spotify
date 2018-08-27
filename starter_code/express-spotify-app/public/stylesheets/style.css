@@ -33,6 +33,7 @@ header {
     flex-direction: column;
     align-content: center;
     justify-content: center;
+    border-radius: 5px;
 }
 
 .input-btn {
